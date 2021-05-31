@@ -3,4 +3,4 @@ SOY JUAN PABLO Y QUIERO SER
 PROGRAMADOR, DE QUÉ? BIEN, DESARROLLADOR 
 DE PAGINAS WEB, APLICACIONES MOVILES Y DESARROLLADOR 
 DE SOFTWARE, ahora mismo estoy haciendo este archivo para 
-el curso profesional de Git y GitHub
+el curso profesional de Git y GitHub, es un chico promedio jejeje
